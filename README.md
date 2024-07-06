@@ -14,6 +14,7 @@ _Use GitHub Actions to publish your project to a Docker image._
 </header>
 
 <!--
+=======
   <<< Author notes: Step 3 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
@@ -38,7 +39,6 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
----
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/publish-packages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
